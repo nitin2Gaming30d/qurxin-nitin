@@ -9,7 +9,7 @@
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone [https://github.com/fikrado/qurxi](https://github.com/nitin2Gaming30d/qurxin-nitin)
+git clone https://github.com/nitin2Gaming30d/qurxin-nitin
 cd qurxin
 chmod +x *
 sh install.sh
